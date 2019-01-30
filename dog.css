@@ -1,0 +1,143 @@
+a{
+	text-decoration: none;
+	color:black;
+
+}
+.containernav{
+	background-color:#FF63B1;
+	height: 170px;
+	 position: fixed;
+	 z-index: 1000;
+	 left:600px; 
+    
+}
+.containernav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.containernav li {
+    display: inline;
+}
+.about{
+	position: relative;
+	top: 50px;
+	left:980px;
+	font-family:'Shrikhand', cursive;
+	font-size: 40px;
+
+}
+.shop{
+	position:relative;
+	top: 50px; 
+	left:80px;
+	font-family:'Shrikhand', cursive;
+	font-size: 40px;
+}
+body{
+	background-color:#FF63B1;
+	
+}
+.logo{
+	position:relative;
+	bottom:20px;
+	left:398px;
+	height: 200px;
+	margin-right: 200em;
+}
+
+
+.banner{
+	position: relative;
+	left: 350px;
+	margin-right: 350px;
+	top: 80px;
+	}
+
+.title{
+	text-align: center; 
+	font-size: 65px
+}	
+
+.discount{
+	position: relative;
+	
+	left:38em;
+	margin-right: 38em;
+
+
+
+}
+
+
+
+.column-left{ float: left; width: 50%; }
+.column-right{ float: right; width: 50%; }
+
+
+.dog1{
+	height: 20px;
+
+}
+.dog2{
+	position: relative;
+	height: 50px;
+	right: 130px;
+}
+p{
+	margin-right: 600px;	
+	font-size: 20px;
+}
+h3{
+	text-align: center;
+	margin-bottom: -20px;
+	font-size: 40px;
+}
+.one{
+	 border-bottom: 5px solid brown;
+	 margin-left: 100px;
+}
+.sleep{
+	position: relative;
+	left: 125em;
+	margin-right: 125em;
+	bottom:350px;
+	margin-bottom: -320px;
+
+}
+.two{
+	 border-bottom: 5px solid brown;
+	 margin: 100px;
+}
+.pile{
+	position: relative;
+	left: 120em;
+	margin-right: 125em;
+	bottom:750px;
+	margin-bottom:-550px;
+}
+.three{
+	 border-bottom: 5px solid brown;
+	 margin-left: 100px;
+}
+.dirty{
+	position: relative;
+	left: 125em;
+	margin-right: 125em;
+	bottom:450px;
+	margin-bottom:-550px;
+}
+.piles{
+	position: relative;
+	left: 59em;
+	margin-right: 60em;
+}
+
+p{
+	font-size: 25px;
+}
+
+.list{
+font-size: 50px;
+}

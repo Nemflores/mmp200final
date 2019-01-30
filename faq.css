@@ -1,0 +1,98 @@
+a{
+	text-decoration: none;
+	color:black;
+
+}
+.all{
+	align-items: center;
+}
+
+.containernav{
+	background-color:#FF63B1 ;
+	height: 170px;
+	 position: fixed; 
+	 z-index: 1000;
+	 left:600px; 
+    
+}
+.content{
+	position: relative;
+	top: 185px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+.about{
+	position: relative;
+	top: 50px;
+	left:980px;
+	font-family:'Shrikhand', cursive;
+	font-size: 40px;
+
+}
+.shop{
+	position:relative;
+	top: 50px; 
+	left:80px;
+	font-family:'Shrikhand', cursive;
+	font-size: 40px;
+}
+body{
+	background-color:#FF63B1;
+	
+}
+.logo{
+	position:relative;
+	bottom:20px;
+	left:398px;
+	height: 200px;
+	margin-right: 50em;
+}
+
+h1{
+	font-family: 'Exo 2', sans-serif;
+	font-size: 3em;
+	}
+	.faq{
+		text-align: center;
+		}
+
+.column-left{ float: left; width: 25%; }
+.column-right{ float: right; width: 25%; }
+.column-center{ display: inline-block; width: 50%; }
+
+.paw1{
+	position: relative;
+	left: 100px;
+	margin-right: 100px;
+
+
+}
+
+.mark1{
+	position: relative;
+	left: 210px;
+	margin-right: 210px;
+
+}
+
+.paw2{
+	position: relative;
+	left: 290px;
+	margin-right: 290px;
+
+}
+p{
+	font-size: 25px;
+}
+
+	
+	
+
+

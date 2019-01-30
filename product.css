@@ -1,0 +1,81 @@
+a{
+	text-decoration: none;
+	color:black;
+
+}
+.containernav{
+	background-color:#FF63B1 ;
+	height: 170px;
+	 position: fixed;
+	 z-index: 1000;
+	 left:600px; 
+    
+}
+.containernav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.containernav li {
+    display: inline;
+}
+.about{
+	position: relative;
+	top: 50px;
+	left:980px;
+	font-family:'Shrikhand', cursive;
+	font-size: 40px;
+
+}
+.shop{
+	position:relative;
+	top: 50px; 
+	left:80px;
+	font-family:'Shrikhand', cursive;
+	font-size: 40px;
+}
+body{
+	background-color:#FF63B1;
+	
+}
+.logo{
+	position:relative;
+	bottom:20px;
+	left:398px;
+	height: 200px;
+	margin-right: 200em;
+}
+.buy{
+position: relative;
+left: 42em;
+margin-right: 42em;
+bottom: 69em;
+margin-bottom:-69em;
+}
+.pic1{
+	position: relative;
+	top: 8em;
+	left: 8em;
+	margin-right: 8em;
+}
+.pic2{
+position: relative;
+left: 60em;
+bottom: 33em;
+margin-right: 60em;}
+.pic3{
+	position: relative;
+	left: 105em;
+	bottom:65em;
+	margin-right: 105em;
+}
+.description{
+	position: relative;
+	top: 2em;
+font-size: 60px;
+font-family: 'Vidaloka', serif;
+margin-left: 4em;
+margin-right: 4em;}
+
+

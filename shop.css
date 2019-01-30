@@ -1,0 +1,73 @@
+a{
+	text-decoration: none;
+	color:black;
+
+}
+.containernav{
+	background-color:#FF63B1 ;
+	height: 170px;
+	 position: fixed;
+	 z-index: 1000;
+	 left:600px; 
+    
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+.about{
+	position: relative;
+	top: 50px;
+	left:980px;
+	font-family:'Shrikhand', cursive;
+	font-size: 40px;
+
+}
+.shop{
+	position:relative;
+	top: 50px; 
+	left:80px;
+	font-family:'Shrikhand', cursive;
+	font-size: 40px;
+}
+body{
+	background-color:#FF63B1;
+	
+}
+.logo{
+	position:relative;
+	bottom:20px;
+	left:398px;
+	height: 200px;
+	margin-right: 50em;
+}
+
+.column-left{ float: left; 
+	width:45%;
+	
+}
+
+.column-right{ float: right;
+ width:45%;
+ 
+}
+
+.content{
+	text-align: center;
+	position: relative;
+	top:200px;
+
+}
+
+h1{
+	font-size: 60px;
+	background-color:#FF63B1;
+
+}
+
+
